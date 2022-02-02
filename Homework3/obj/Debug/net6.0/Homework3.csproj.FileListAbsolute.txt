@@ -1,0 +1,15 @@
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/Homework3
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/Homework3.deps.json
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/Homework3.runtimeconfig.json
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/Homework3.dll
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/ref/Homework3.dll
+/Users/sergeykvashnin/Desktop/Homework/Homework3/bin/Debug/net6.0/Homework3.pdb
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.csproj.AssemblyReference.cache
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.AssemblyInfoInputs.cache
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.AssemblyInfo.cs
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.csproj.CoreCompileInputs.cache
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.dll
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/ref/Homework3.dll
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.pdb
+/Users/sergeykvashnin/Desktop/Homework/Homework3/obj/Debug/net6.0/Homework3.genruntimeconfig.cache
